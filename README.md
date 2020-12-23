@@ -1,5 +1,5 @@
 ## Hi there 👋 😊
-<hr>
+
 <p>Welcome !</br> I'm <strong>Noreddine</strong>, Fullstack developer, I'm from Morocco, living in Khouribga
 🌱 I’m currently studying at <a href="https://1337.ma/">1337</a>
 <h3>Things I code with</h3>
@@ -23,10 +23,11 @@
 
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhakkaou&layout=compact&theme=merko)](https://github.com/nhakkaou/github-readme-stats)
-![Nhakkaou's github stats](https://github-readme-stats.vercel.app/api?username=nhakkaou&show_icons=true&theme=merko )
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhakkaou&layout=compact&theme=merko)](https://github.com/nhakkaou/github-readme-stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nhakkaou&show_icons=true&theme=merko" />
 
-<h3>Contact me </h3>
+
+### Contact me 
 
 <a target="_blank" href="https://www.instagram.com/king_nour9/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -42,6 +43,9 @@
 
 [![GitHub nhakkaou](https://img.shields.io/github/followers/nhakkaou?label=follow&style=social)](https://github.com/nhakkaou)
 [![Linkedin: nhakkaou](https://img.shields.io/badge/-nhakkaou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noreddine-hakkaoui/)](https://www.linkedin.com/in/nhakkaou/)
+
+
+![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=nhakkaou)
 <!--
 **nhakkaou/nhakkaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
