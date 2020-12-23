@@ -7,6 +7,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhakkaou&layout=compact&theme=merko)](https://github.com/nhakkaou/github-readme-stats)
 ![Bolles's github stats](https://github-readme-stats.vercel.app/api?username=nhakkaou&show_icons=true&theme=merko )
+[![GitHub nhakkaou](https://img.shields.io/github/followers/nhakkaou?label=follow&style=social)](https://github.com/nhakkaou)
+[![Linkedin: nhakkaou](https://img.shields.io/badge/-nhakkaou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noreddine-hakkaoui/)](https://www.linkedin.com/in/nhakkaou/)
+
 <!--
 **nhakkaou/nhakkaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
