@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![PHP](https://img.shields.io/badge/-Php-%23007ACC?style=flat-square&logo=php)
-![NodeJs](https://img.shields.io/badge/-Nodejs-%23007ACC?style=flat-square&logo=node)
+![NJs](https://img.shields.io/badge/-Node-%23007ACC?style=flat-square&logo=nodejs)
 ![](https://img.shields.io/badge/-C-%23007ACC?style=flat-square&logo=c)
 
 ### Database
@@ -24,7 +24,7 @@
 
 ## Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhakkaou&layout=compact&theme=merko)](https://github.com/nhakkaou/github-readme-stats"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nhakkaou&show_icons=true&theme=merko" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nhakkaou&show_icons=true&theme=merko" />
 
 
 ### Contact me 
@@ -48,7 +48,7 @@
 ![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=nhakkaou)
 <!--
 **nhakkaou/nhakkaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+# [![nhakkaou header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light-holiday.png)](https://waylonwalker.com)
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
