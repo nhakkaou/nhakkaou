@@ -4,6 +4,9 @@
 <p>
   <img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhakkaou&layout=compact&theme=merko)](https://github.com/nhakkaou/github-readme-stats)
+![Bolles's github stats](https://github-readme-stats.vercel.app/api?username=nhakkaou&show_icons=true&theme=merko )
 <!--
 **nhakkaou/nhakkaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
