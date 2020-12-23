@@ -1,12 +1,13 @@
-### Hi there 👋 Im Nhakkaou 😎
-
+### Hi there 👋 😊
+<p>Welcome !</br> I'm <h4>Yassir</h4>, Fullstack developer 
+<h3>Things I code with</h3>
+<p>
+  <img alt="React" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw1aM9vgC1G2AwPUo3nFWBVg&ust=1608826345058000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODLs6m_5O0CFQAAAAAdAAAAABAD" />
+</p>
 <!--
 **nhakkaou/nhakkaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<p>
-  <img alt="React" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw1aM9vgC1G2AwPUo3nFWBVg&ust=1608826345058000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODLs6m_5O0CFQAAAAAdAAAAABAD" />
-</p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
