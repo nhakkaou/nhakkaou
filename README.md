@@ -1,18 +1,30 @@
-### Hi there 👋 😊
-<p>Welcome !</br> I'm <strong>Noreddine</strong>, Fullstack developer 
+## Hi there 👋 😊
+<hr>
+<p>Welcome !</br> I'm <strong>Noreddine</strong>, Fullstack developer, I'm from Morocco, living in Khouribga
 🌱 I’m currently studying at <a href="https://1337.ma/">1337</a>
 <h3>Things I code with</h3>
-<p>
-  <img   width="50px" alt="Node Js" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" />
-  <img   width="30px" alt="Vue Js" src="https://vuejs.org/images/logo.png" />
-  <img   width="30px" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" />
-  <img   width="30px" alt="Php" src="https://www.php.net/images/logos/new-php-logo.svg" />
-  <img   width="30px" alt="NPM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" />
-  <img   width="30px" alt="JS" src="https://powerforallats.com/wp-content/uploads/2016/03/js-logo.png" />
-  <img   width="30px" alt="C" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" /> 
-  <img   width="30px" alt="Mysql" src="https://img.favpng.com/2/3/9/mysql-logo-database-microsoft-sql-server-png-favpng-8BiL0NVk5zh0ViJa9xDnMbMB5.jpg" /> 
-  <img   width="50px" alt="Mysql" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" /> 
-</p>
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![PHP](https://img.shields.io/badge/-Php-%23007ACC?style=flat-square&logo=php)
+![NodeJs](https://img.shields.io/badge/-Nodejs-%23007ACC?style=flat-square&logo=node)
+![](https://img.shields.io/badge/-C-%23007ACC?style=flat-square&logo=c)
+
+### Database
+![Mysql](https://img.shields.io/badge/-Mysql-%23007ACC?style=flat-square&logo=mysql)
+![Mongodb](https://img.shields.io/badge/-Mongodb-%23007ACC?style=flat-square&logo=mongodb)
+
+
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhakkaou&layout=compact&theme=merko)](https://github.com/nhakkaou/github-readme-stats)
+![Nhakkaou's github stats](https://github-readme-stats.vercel.app/api?username=nhakkaou&show_icons=true&theme=merko )
 
 <h3>Contact me </h3>
 
@@ -28,13 +40,8 @@
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhakkaou&layout=compact&theme=merko)](https://github.com/nhakkaou/github-readme-stats)
-![Nhakkaou's github stats](https://github-readme-stats.vercel.app/api?username=nhakkaou&show_icons=true&theme=merko )
 [![GitHub nhakkaou](https://img.shields.io/github/followers/nhakkaou?label=follow&style=social)](https://github.com/nhakkaou)
 [![Linkedin: nhakkaou](https://img.shields.io/badge/-nhakkaou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noreddine-hakkaoui/)](https://www.linkedin.com/in/nhakkaou/)
-
-
-
 <!--
 **nhakkaou/nhakkaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
