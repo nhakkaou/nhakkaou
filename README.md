@@ -1,3 +1,4 @@
+# [![nhakkaou header](https://raw.githubusercontent.com/nhakkaou/nhakkaou/resources/icon/nh.jpg)]
 ## Hi there 👋 😊
 
 <p>Welcome !</br> I'm <strong>Noreddine</strong>, Fullstack developer, I'm from Morocco, living in Khouribga
@@ -45,10 +46,10 @@
 [![Linkedin: nhakkaou](https://img.shields.io/badge/-nhakkaou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noreddine-hakkaoui/)](https://www.linkedin.com/in/nhakkaou/)
 
 
+
 ![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=nhakkaou)
 <!--
 **nhakkaou/nhakkaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# [![nhakkaou header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light-holiday.png)](https://waylonwalker.com)
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
