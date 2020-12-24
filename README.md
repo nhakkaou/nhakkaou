@@ -16,16 +16,14 @@
 ![PHP](https://img.shields.io/badge/-Php-%23007ACC?style=flat-square&logo=php)
 ![NJs](https://img.shields.io/badge/-Node-%23007ACC?style=flat-square&logo=nodejs)
 ![](https://img.shields.io/badge/-C-%23007ACC?style=flat-square&logo=c)
-
-### Database
 ![Mysql](https://img.shields.io/badge/-Mysql-%23007ACC?style=flat-square&logo=mysql)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-%23007ACC?style=flat-square&logo=mongodb)
 
 
 ## Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhakkaou&layout=compact&theme=merko)](https://github.com/nhakkaou/github-readme-stats"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nhakkaou&show_icons=true&theme=merko" />
-
+<img width=30% style="background-color: black;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhakkaou&layout=compact&theme=merko"/>
+<img width=40% style="background-color: black;" align="left" src="https://github-readme-stats.vercel.app/api?username=nhakkaou&show_icons=true&theme=merko" />
+ 
 
 ### Contact me 
 
