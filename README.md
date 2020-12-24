@@ -20,6 +20,9 @@
 ![Mongodb](https://img.shields.io/badge/-Mongodb-%23007ACC?style=flat-square&logo=mongodb)
 
 
+## 42 Stats
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=nhakkaou)](https://github.com/nhakkaou)
+
 ## Stats
 <img width=30% style="background-color: black;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhakkaou&layout=compact&theme=merko"/>
 <img width=40% style="background-color: black;" align="left" src="https://github-readme-stats.vercel.app/api?username=nhakkaou&show_icons=true&theme=merko" />
