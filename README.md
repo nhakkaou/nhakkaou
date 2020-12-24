@@ -1,4 +1,3 @@
-# ![nhakkaou header](https://github.com/nhakkaou/nhakkaou/blob/main/resources/nh.jpg)
 ## Hi there 👋 😊
 
 <p>Welcome !</br> I'm <strong>Noreddine</strong>, Fullstack developer, I'm from Morocco, living in Khouribga
@@ -49,6 +48,7 @@
 
 ![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=nhakkaou)
 <!--
+# ![nhakkaou header](https://github.com/nhakkaou/nhakkaou/blob/main/resources/nh.jpg)
 **nhakkaou/nhakkaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
