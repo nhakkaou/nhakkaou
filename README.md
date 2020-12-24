@@ -21,7 +21,7 @@
 
 
 ## 42 Stats
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=nhakkaou)](https://github.com/nhakkaou)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=nhakkaou)]
 
 ## Stats
 <img width=30% style="background-color: black;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhakkaou&layout=compact&theme=merko"/>
