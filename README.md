@@ -1,4 +1,4 @@
-# [![nhakkaou header](https://github.com/nhakkaou/nhakkaou/blob/main/resources/nh.jpg)]
+# ![nhakkaou header](https://github.com/nhakkaou/nhakkaou/blob/main/resources/nh.jpg)
 ## Hi there 👋 😊
 
 <p>Welcome !</br> I'm <strong>Noreddine</strong>, Fullstack developer, I'm from Morocco, living in Khouribga
