@@ -1,7 +1,8 @@
-## Hi there 👋 😊
+## Hi there 👋 👽
 
 <p>Welcome !</br> I'm <strong>Noreddine</strong>, Fullstack developer, I'm from Morocco, living in Khouribga
-🌱 I’m currently studying at <a href="https://1337.ma/">1337</a>
+🌱 I’m currently studying at <a href="https://1337.ma/" style="font-weight:bold">1337</a>
+<img width="200px" src="https://media1.giphy.com/media/unQ3IJU2RG7DO/200w.gif?cid=82a1493bj97x05w6v4n8bg40ddhucc5q1q69x6buhrcjkc5p&rid=200w.gif&ct=g" align="right" style="border-radius:50%"/>
 <h3>Things I code with</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
