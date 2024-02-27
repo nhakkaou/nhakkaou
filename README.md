@@ -7,11 +7,11 @@ const nhakkaou = {
 
   tools: [React, Redux, Node, Next, Styled-Components, Jest, Dockerm React-Native],
 
-  architecture: ["microservices", "monolothics"],
+  architecture: ["microservices", "monoliths"],
 
   Learning: [ThreeJs, Devops, Cloud, K8s],
 
- challenge: "I am doing the #100DaysOfCode challenge focused on react and nestJs"
+ challenge: "I am doing the #100DaysOfCode challenge focused on ThreeJs and Devops"
 
 }
 ```
