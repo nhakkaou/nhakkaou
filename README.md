@@ -5,7 +5,7 @@ const nhakkaou = {
 
   code: [Javascript, Typescript, HTML, CSS, C],
 
-  tools: [React, Redux, Node, Next, Styled-Components, Jest, Dockerm React-Native],
+  tools: [React, Redux, Node, Next, Styled-Components, Jest, Docker, React-Native],
 
   architecture: ["microservices", "monoliths"],
 
